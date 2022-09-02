@@ -1,0 +1,29 @@
+#EXTM3U
+#EXTINF:0 tvg-name="Cartoon Network" tvg-language="Turkish" tvg-country="TR" tvg-id="Cartoon Network" tvg-logo="https://cncdn.dmti.cloud/5755eeda78347181b378c18e98cc1ceae3e83cb7/static/media/cn-logo.3f4d7cfb.svg" group-title="Çizgifilm",Cartoon Network
+https://59cba4d34b678.streamlock.net/live2/cartoon-network.stream/playlist.m3u8?hash=97e35e0f7ee352c222623e9ae2361fe3
+
+#EXTINF:0,Cartoon Network Yedek
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+
+#EXTINF:0 tvg-name="TLC" tvg-language="Turkish" tvg-country="TR" tvg-id="TLC" tvg-logo="https://img-tlctv.mncdn.com/logo.png" group-title="Belgesel",TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+
+#EXTINF:0,TLC Yedek
+https://list.iptvcat.com/my_list/s/705bdd50c17f212752a4796dca625b41.m3u8
+#EXTINF:0,TLC Yedek 2
+https://list.iptvcat.com/my_list/s/df7a1d106b2188171d73c4472273b176.m3u8
+
+#EXTINF:0 tvg-name="Show TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Show TV" tvg-logo="https://www.showtv.com.tr/assets/v2/images/desktop/logo/showtv.svg" group-title="Kanal",Show TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+
+#EXTINF:0 tvg-name="Star TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Star TV" tvg-logo="https://www.startv.com.tr/assets/images/content/logo.svg?v=26042021" group-title="Kanal",Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+
+#EXTINF:0 tvg-name="Kanal D" tvg-language="Turkish" tvg-country="TR" tvg-id="Kanal D" tvg-logo="https://s1.kanald.com.tr//images/kanald-logo.png" group-title="Kanal",Kanal D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+
+#EXTINF:0 tvg-name="FOX" tvg-language="Turkish" tvg-country="TR" tvg-id="FOX" tvg-logo="https://bqte9svezmi4.merlincdn.net//img/logos/logo.svg" group-title="Kanal",FOX
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=mfslZQJGCAMfhS3UdqSarQ&e=1662139226
+
+#EXTINF:0 tvg-name="Habertürk" tvg-language="Turkish" tvg-country="TR" tvg-id="Habertürk" tvg-logo="https://im.haberturk.com/assets/images/logo/haberturk-logo-v1.svg" group-title="Kanal",Habertürk
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
