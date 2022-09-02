@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:0,Cartoon Network
+https://59cba4d34b678.streamlock.net/live2/cartoon-network.stream/playlist.m3u8?hash=97e35e0f7ee352c222623e9ae2361fe3
+#EXTINF:0,Cartoon Network Yedek
+http://iptvmasterlink.dyndns.org:8080/CartoonNetwork/playlist.m3u8
+#EXTINF:0,TLC
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469
+#EXTINF:0,TLC Yedek
+https://list.iptvcat.com/my_list/s/705bdd50c17f212752a4796dca625b41.m3u8
+#EXTINF:0,TLC Yedek 2
+https://list.iptvcat.com/my_list/s/df7a1d106b2188171d73c4472273b176.m3u8
+#EXTINF:0, Show TV
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:0, Star TV
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:0, Kanal D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:0, FOX
+https://foxtv-live-ad.ercdn.net/foxtv/playlist.m3u8?st=mfslZQJGCAMfhS3UdqSarQ&e=1662139226
+#EXTINF:0, Habertürk
+https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
